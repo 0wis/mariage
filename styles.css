@@ -6,7 +6,7 @@ body {
     flex-direction: column; /* Optional: Center content vertically as well */
     font-family: 'Playfair Display', 'Courier New', monospace;
     color: #1b0969;
-    background-color: #FFF5EE;
+    background-color: #f8f2d4;
     margin: 0 20px; /* Top & bottom margin = 0, Left & right margin = 20px */
 }
 h1,h2,h3,h4,h5,h6 {
